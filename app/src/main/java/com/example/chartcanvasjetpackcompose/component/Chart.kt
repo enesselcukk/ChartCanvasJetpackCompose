@@ -21,6 +21,7 @@ import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.chartcanvasjetpackcompose.data.ChartData
+import java.lang.String.format
 import kotlin.math.pow
 
 
@@ -183,7 +184,7 @@ fun CryptoChart(
                     // Draw price text
                     drawContext.canvas.nativeCanvas.apply {
                         drawText(
-                            "$${String.format("%.2f", selected.value)}",
+                            "$${format("%.2f", selected.value)}",
                             boxTopLeft.x + boxPadding,
                             boxTopLeft.y + boxHeight/2 + 6.dp.toPx(),
                             android.graphics.Paint().apply {
