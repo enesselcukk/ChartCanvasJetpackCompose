@@ -31,4 +31,4 @@ A modern cryptocurrency price chart implementation using Jetpack Compose Canvas.
 
 ## 🛠 Preview
 
-- [Screen_recording_chartCanvasCompose.webm](https://github.com/user-attachments/assets/5a1b0d29-4e90-48f6-967d-5151afc66deb) 
+[Screen_recording_chartCanvasCompose.webm](https://github.com/user-attachments/assets/5a1b0d29-4e90-48f6-967d-5151afc66deb) 
