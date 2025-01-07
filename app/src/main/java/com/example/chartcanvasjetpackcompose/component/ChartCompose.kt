@@ -1,4 +1,4 @@
-addpackage com.example.chartcanvasjetpackcompose.component
+package com.example.chartcanvasjetpackcompose.component
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.FastOutSlowInEasing
