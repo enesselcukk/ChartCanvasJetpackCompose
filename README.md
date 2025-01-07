@@ -15,7 +15,6 @@ A modern cryptocurrency price chart implementation using Jetpack Compose Canvas.
 - 👆 Interactive price indicators on touch
 - 📏 Dynamic grid lines
 - 🎯 Precise point selection
-- 🌓 Dark theme support
 
 ## 🛠 Tech Stack & Open Source Libraries
 
